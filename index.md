@@ -11,6 +11,10 @@
 ```javascript
 console.log('Exemplo de código');
 ```
+##Lista Mercado
+- [x] limão
+- [ ] leite
+- [ ] água
 
 ``` javascript
 var myVar = "Hello, world!";

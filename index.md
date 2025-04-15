@@ -2,6 +2,7 @@
 - **Action**: On commit, start markdown with headers (push)
 - **Status**: Failing after 7s
 
+![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
 
 <h1>Titulo 1</h1>
 <h2>Titulo 2</h2>

@@ -12,6 +12,10 @@
 console.log('Exemplo de código');
 ```
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 - [ ] Tarefa pendente
 - [x] Tarefa concluída
 
